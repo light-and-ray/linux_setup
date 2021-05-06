@@ -1,0 +1,20 @@
+[Desktop Entry]
+Categories=System;Settings;
+Comment[ru_RU]=drivers
+Comment=drivers
+Exec=konsole -e "~/.local/share/applications/software-properties-qt.sh"
+GenericName[ru_RU]=Установка драйверов\s
+GenericName=Установка драйверов\s
+Icon=systemsettings
+MimeType=
+Name[ru_RU]=software properties qt\n
+Name=software properties qt\n
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+X-DBUS-ServiceName=
+X-DBUS-StartupType=
+X-KDE-SubstituteUID=false
+X-KDE-Username=
